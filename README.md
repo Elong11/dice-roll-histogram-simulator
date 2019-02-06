@@ -6,4 +6,4 @@ See picture below.
 
 ## Sample Results
 
-![Sample](SampleResults.PNG)
+![Sample](SampleResults.png)
